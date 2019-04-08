@@ -1,5 +1,4 @@
 package org.spring.springboot.dubbo;
-
 import org.spring.springboot.domain.City;
 
 /**
